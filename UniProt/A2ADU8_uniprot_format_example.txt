@@ -1,0 +1,89 @@
+ID   DG2L6_MOUSE             Reviewed;         337 AA.
+AC   A2ADU8;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   20-FEB-2007, sequence version 1.
+DT   08-JUN-2016, entry version 65.
+DE   RecName: Full=Diacylglycerol O-acyltransferase 2-like protein 6;
+DE            EC=2.3.1.-;
+GN   Name=Dgat2l6;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+CC   -!- FUNCTION: Probable acyltransferase uses fatty acyl-CoA as
+CC       substrate. Has no wax synthase activity to produce wax esters.
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000250}; Multi-pass membrane protein {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the diacylglycerol acyltransferase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL671299; CAM19588.1; -; Genomic_DNA.
+DR   CCDS; CCDS53147.1; -.
+DR   RefSeq; NP_001107556.1; NM_001114084.1.
+DR   UniGene; Mm.95646; -.
+DR   STRING; 10090.ENSMUSP00000036845; -.
+DR   iPTMnet; A2ADU8; -.
+DR   PaxDb; A2ADU8; -.
+DR   PRIDE; A2ADU8; -.
+DR   Ensembl; ENSMUST00000037541; ENSMUSP00000036845; ENSMUSG00000067597.
+DR   GeneID; 668257; -.
+DR   KEGG; mmu:668257; -.
+DR   UCSC; uc012hmt.1; mouse.
+DR   CTD; 347516; -.
+DR   MGI; MGI:3045268; Dgat2l6.
+DR   eggNOG; KOG0831; Eukaryota.
+DR   eggNOG; ENOG410XTG3; LUCA.
+DR   GeneTree; ENSGT00750000117391; -.
+DR   HOGENOM; HOG000179738; -.
+DR   HOVERGEN; HBG065791; -.
+DR   InParanoid; A2ADU8; -.
+DR   KO; K11172; -.
+DR   OMA; KTFQDTF; -.
+DR   OrthoDB; EOG7KH9KB; -.
+DR   TreeFam; TF314707; -.
+DR   Reactome; R-MMU-1482883; Acyl chain remodeling of DAG and TAG.
+DR   PRO; PR:A2ADU8; -.
+DR   Proteomes; UP000000589; Chromosome X.
+DR   Bgee; A2ADU8; -.
+DR   CleanEx; MM_DGAT2L6; -.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0016747; F:transferase activity, transferring acyl groups other than amino-acyl groups; IEA:InterPro.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:UniProtKB-KW.
+DR   InterPro; IPR007130; DAGAT.
+DR   Pfam; PF03982; DAGAT; 1.
+PE   3: Inferred from homology;
+KW   Acyltransferase; Complete proteome; Endoplasmic reticulum;
+KW   Lipid biosynthesis; Lipid metabolism; Membrane; Reference proteome;
+KW   Transferase; Transmembrane; Transmembrane helix.
+FT   CHAIN         1    337       Diacylglycerol O-acyltransferase 2-like
+FT                                protein 6.
+FT                                /FTId=PRO_0000320297.
+FT   TRANSMEM     22     42       Helical. {ECO:0000255}.
+FT   TRANSMEM    102    122       Helical. {ECO:0000255}.
+SQ   SEQUENCE   337 AA;  38362 MW;  B7EB67BB4C408D8A CRC64;
+     MAAFSCLDLQ EGLRTLSILQ WIPVYVLLGT LSILGMPYLL LFTTLWPLSV LFLVWIAYDW
+     NTHIQDGRRS AWVRNWTLWK YFQSYFPVKL VKTHDLSPKH NYIILSHPHG ILSYGAFINF
+     ATESTGFSRV FPSITPFLAT LEGIFWIPFV RDYLMSLGIC PVSKLSLTHK LTQKDSGNAV
+     IIVPGGASES LLSRPGVSMI YLKKRQGFVK LALKTGAYLV PSYSFGENET YNQETFAEGT
+     WLRFFQKNIQ KIGKRILGIN LCTIHGRGLT RGSWGFLPFN HPITTVVGEP LPVPKIPDPD
+     KETVEKYLEL YISALRKLFD QHKAEYGLSK THELKIL
+//
