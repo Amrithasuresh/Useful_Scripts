@@ -1,3 +1,16 @@
+
+# -------------------------------------------------------------------------------
+# Purpose:     How to automate fuzznuc program (emboss fuzznuc) in linux?
+# Author:      Suresh Panneerselvam
+#
+# Created:     2016-07-11
+# OS:          Ubuntu 16.04
+# Licence:     MIT
+# -------------------------------------------------------------------------------
+#import the docx module
+#Documentation can be found here http://python-docx.readthedocs.io/en/latest/
+
+
 import subprocess
 import glob
 import os
