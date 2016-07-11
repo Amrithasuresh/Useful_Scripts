@@ -7,8 +7,7 @@
 # OS:          Ubuntu 16.04
 # Licence:     MIT
 # -------------------------------------------------------------------------------
-#import the docx module
-#Documentation can be found here http://python-docx.readthedocs.io/en/latest/
+
 
 
 import subprocess
