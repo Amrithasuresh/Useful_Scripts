@@ -1,6 +1,15 @@
-# This script converts 2D to 3D using corina software
+# -------------------------------------------------------------------------------
+# Purpose:     # This script converts small molecule 2D to 3D structures using corina software
+# Author:      Suresh Panneerselvam
+#
+# Created:     2016-07-11
+# OS:          Ubuntu 16.04
+# Licence:     MIT
+# -------------------------------------------------------------------------------
 import subprocess
 import glob
+
+#requirement corina software
 
 
 list_files = glob.glob("/home/suresh/python/project-pattern/files")
