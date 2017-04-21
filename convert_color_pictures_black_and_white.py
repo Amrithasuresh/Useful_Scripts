@@ -1,13 +1,3 @@
-
-# -------------------------------------------------------------------------------
-# Purpose:     Convert color pictures to black and white using
-# Author:      Suresh Panneerselvam
-#
-# Created:     2016-07-11
-# OS:          Ubuntu 16.04
-# Licence:     MIT
-# -------------------------------------------------------------------------------
-
 from PIL import Image
 import subprocess
 import os
