@@ -1,11 +1,3 @@
-# -------------------------------------------------------------------------------
-# Purpose:     How to create a word file using python?
-# Author:      Suresh Panneerselvam
-#
-# Created:     2016-07-05
-# OS:          Ubuntu 16.04
-# Licence:     MIT
-# -------------------------------------------------------------------------------
 #import the docx module
 #Documentation can be found here http://python-docx.readthedocs.io/en/latest/
 import docx
